@@ -1,0 +1,4 @@
+obj/version.o: version.cpp /Users/Slayter/sithcoin/src/version.h \
+  /Users/Slayter/sithcoin/src/obj/build.h
+version.cpp /Users/Slayter/sithcoin/src/version.h :
+  /Users/Slayter/sithcoin/src/obj/build.h :
